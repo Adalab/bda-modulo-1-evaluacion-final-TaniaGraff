@@ -1,3 +1,4 @@
-Repositorio Evaluación Final Modulo 1 Tania Graff.
+Ejercicio de Evaluación Módulo 1
 
-En este repositorio dejo los ejercicios realizados durante la evaluación final del primer módulo de la Promo A Part Time.
+Creación de la clase TiendaOnline definida por varios atributos y 14 metódos, utilizando python como lenguaje.
+Evaluación realizada por Tania Graff.
